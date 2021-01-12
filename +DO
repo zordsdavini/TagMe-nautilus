@@ -1,0 +1,3 @@
+#!/bin/bash
+
+tagme-cli -f=`pwd`/$1 -t=DO add_tag_to_file
